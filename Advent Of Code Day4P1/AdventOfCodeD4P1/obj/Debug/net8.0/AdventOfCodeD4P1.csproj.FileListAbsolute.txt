@@ -1,0 +1,14 @@
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\bin\Debug\net8.0\AdventOfCodeD4P1.exe
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\bin\Debug\net8.0\AdventOfCodeD4P1.deps.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\bin\Debug\net8.0\AdventOfCodeD4P1.runtimeconfig.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\bin\Debug\net8.0\AdventOfCodeD4P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\bin\Debug\net8.0\AdventOfCodeD4P1.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.AssemblyInfoInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.AssemblyInfo.cs
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.csproj.CoreCompileInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\refint\AdventOfCodeD4P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\AdventOfCodeD4P1.genruntimeconfig.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day4P1\AdventOfCodeD4P1\obj\Debug\net8.0\ref\AdventOfCodeD4P1.dll

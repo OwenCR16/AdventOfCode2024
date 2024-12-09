@@ -1,0 +1,14 @@
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\bin\Debug\net8.0\Advent Of Code Day3P2.exe
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\bin\Debug\net8.0\Advent Of Code Day3P2.deps.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\bin\Debug\net8.0\Advent Of Code Day3P2.runtimeconfig.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\bin\Debug\net8.0\Advent Of Code Day3P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\bin\Debug\net8.0\Advent Of Code Day3P2.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.AssemblyInfoInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.AssemblyInfo.cs
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.csproj.CoreCompileInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\refint\Advent Of Code Day3P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\Advent Of Code Day3P2.genruntimeconfig.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day3P2\Advent Of Code Day3P2\obj\Debug\net8.0\ref\Advent Of Code Day3P2.dll

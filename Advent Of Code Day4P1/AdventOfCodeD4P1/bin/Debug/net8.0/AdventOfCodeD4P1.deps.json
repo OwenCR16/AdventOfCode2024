@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdventOfCodeD4P1/1.0.0": {
+        "runtime": {
+          "AdventOfCodeD4P1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCodeD4P1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
