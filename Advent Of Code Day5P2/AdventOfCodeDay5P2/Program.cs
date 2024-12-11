@@ -1,4 +1,4 @@
-﻿namespace AdventOfCodeDay5P1
+﻿namespace AdventOfCodeDay5P2
 {
     class Program
     {
@@ -19,10 +19,10 @@
                         updates.Add(new Update(line.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(Int32.Parse).ToArray()));
                     }
                 }
-                if (line == "crimus")
+                if (line == "merryxmas")
                 {
                     Calculator calculator = new Calculator();
-                    Console.WriteLine(calculator.SumMiddlePageNumbersOfCorrectUpdates(pagePairRules, updates));
+                    Console.WriteLine(calculator.FixIncorrectUpdatesAndSumMiddlePages(pagePairRules, updates));
                 }
             }
         }
