@@ -1,0 +1,15 @@
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\bin\Debug\net8.0\AdventOfCodeDay5P1.exe
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\bin\Debug\net8.0\AdventOfCodeDay5P1.deps.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\bin\Debug\net8.0\AdventOfCodeDay5P1.runtimeconfig.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\bin\Debug\net8.0\AdventOfCodeDay5P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\bin\Debug\net8.0\AdventOfCodeDay5P1.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.AssemblyInfoInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.AssemblyInfo.cs
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.csproj.CoreCompileInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.sourcelink.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\refint\AdventOfCodeDay5P1.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\AdventOfCodeDay5P1.genruntimeconfig.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day5P1\AdventOfCodeDay5P1\obj\Debug\net8.0\ref\AdventOfCodeDay5P1.dll
