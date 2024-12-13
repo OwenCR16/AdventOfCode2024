@@ -1,0 +1,15 @@
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\bin\Debug\net8.0\AdventOfCodeDay6P2.exe
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\bin\Debug\net8.0\AdventOfCodeDay6P2.deps.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\bin\Debug\net8.0\AdventOfCodeDay6P2.runtimeconfig.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\bin\Debug\net8.0\AdventOfCodeDay6P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\bin\Debug\net8.0\AdventOfCodeDay6P2.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.AssemblyInfoInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.AssemblyInfo.cs
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.csproj.CoreCompileInputs.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.sourcelink.json
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\refint\AdventOfCodeDay6P2.dll
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.pdb
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\AdventOfCodeDay6P2.genruntimeconfig.cache
+C:\Users\Owen Russell\Desktop\AdventOfCode\Advent Of Code Day6P2\AdventOfCodeDay6P2\AdventOfCodeDay6P2\obj\Debug\net8.0\ref\AdventOfCodeDay6P2.dll
